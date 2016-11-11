@@ -1,28 +1,20 @@
-== README
+== AZIZDO
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+AzizDo is a personal task-tracker application written in Rails that hopes to allow you to track the tasks you do every day so you can build statistics over time for how well you are utilizing each unit of time in every day of your life. 
 
 
-Please feel free to use a different markup language if you do not plan to run
+
+* Allows you to track events on a day nby day basis
+
+* Creates a web interface that you can access from the web
+
+* Add events from any mobile device
+
+* Over time compute a "time-chart" listing each day in your life as a tiny cube like a github style tracker
+
+* See which days are productive vs days that are non productive
+
+* Eventual intefgration with other tools such as RescueTime and Google maps to see where non work time is going. 
+
+
 <tt>rake doc:app</tt>.
